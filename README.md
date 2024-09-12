@@ -1,0 +1,1 @@
+I have tried to make a dark animated website where we build a template for new trend that is going on about creating dark themed websites with Next.js, Prismic, Tailwind, TypeScript, and GSAP website.
